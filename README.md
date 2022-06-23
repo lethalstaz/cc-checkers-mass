@@ -19,4 +19,4 @@
  
 ```
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/lethalstaz" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
