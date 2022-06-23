@@ -1,4 +1,4 @@
-# <p align="center">MASS-CC-CHECKER<p>
+# <p align="center">Terminal<p>
 
 ```py 
                    Steps
@@ -17,6 +17,6 @@
 
 [+] - php bot.php
 
-[+] - Enjoy🤣
+[+] - Enjoy,and please edit with credit🤣
  
 ```
