@@ -18,3 +18,5 @@
 [+] - Enjoy,and please edit with credit🤣
  
 ```
+<p align="center">
+<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
