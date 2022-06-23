@@ -1,8 +1,6 @@
-# <p align="center">Terminal<p>
+# <p align="center">Instructions<p>
 
 ```py 
-                   Steps
-           
 [+] - Download the zip
 
 [+] - Extract
